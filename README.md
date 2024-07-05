@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebi747
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
